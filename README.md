@@ -3,7 +3,7 @@
 ### TODO
 
 * Needs a `Makefile`
-* Separate `modules/classes` into different files. 
+* Separate `modules/classes` into different files; not a priority to make the software run/work. Just more OOD principles.
 * A script for plotting data/results; Probablt `Python based` using `Matplotlib`. 
 
 ### Introduction
