@@ -48,7 +48,8 @@
 
 ### Getting the Software
 
-* `git clone https://github.com/MRLintern/2DGeoHF.git`
+* `$ git clone https://github.com/MRLintern/2DGeoHF.git`
+* `$ cd 2DGeoHF` for the purposes of building and running the software.
 
 ### Resources
 
