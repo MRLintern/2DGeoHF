@@ -22,15 +22,15 @@
 
 #### Sedimentary Rock
 
-* _Sandstone_. Coefficient of Thermal Diffusivity: __1.3e-4 (m^2/s)__.
+* _Sandstone_. Coefficient of Thermal Diffusivity: __1.3e-4 (m*m/s)__.
 
 #### Metamorphic Rock
 
-* _Quartzite_. Coefficient of Thermal Diffusivity: __2.6e-4 (m^2/s)__. 
+* _Quartzite_. Coefficient of Thermal Diffusivity: __2.6e-4 (m*m/s)__. 
 
 #### Igneous Rock
 
-* _Basalt_. Coefficient of Thermal Diffusivity: __9e-5 (m^2/s)__.
+* _Basalt_. Coefficient of Thermal Diffusivity: __9e-5 (m*m/s)__.
 
 
 ### Mathematical Model
@@ -45,6 +45,7 @@
 * A text editor for making changes.
 * `OpenMP` for `Multithreading`.
 * `GNU Make`
+* This isn't a tutorial. There's an expectation that you know some Physics and Appled Mathematics; e.g. `Thermodynamics`, `Numerical Linear Algebra` and `Numerical Partial Differential Equations`. 
 
 ### Getting the Software
 
