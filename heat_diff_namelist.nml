@@ -1,0 +1,23 @@
+! -- thermal diffusivity coefficient(s)
+
+    ! sandstone
+    ThermDiffCoeff = 1.3e-4
+    ! basalt 
+    ! ThermDiffCoeff = 9e-5
+    ! quartzite
+    ! ThermDiffCoeff = 2.6e-4
+
+    ! -- geometry of domain
+
+    ! length of domain (square)
+    DomainLength = 50.
+    ! num of nodes in domain
+    xNode = 300
+
+    ! -- temperature for each face of the domain
+
+    TempTopLeft = 100.
+    TempTopRight = 85.
+    TempBottomLeft = 40.
+    TempBottomRight = 35.
+
