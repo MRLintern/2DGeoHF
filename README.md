@@ -46,7 +46,9 @@
 * `OpenMP` for `Multithreading`.
 * `GNU Make`
 
-### Getting and Running the Software
+### Getting the Software
+
+* `git clone https://github.com/MRLintern/2DGeoHF.git`
 
 ### Resources
 
