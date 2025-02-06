@@ -2,7 +2,9 @@
 
 ### TODO
 
-* Needs a `Makefile`
+* Basic one has been provided.
+* Theres issues with new lines/indentation that need resolving.
+* Issues with the _Configuration Class_; to be resolved.
 * Separate `modules/classes` into different files; not a priority to make the software run/work. Just more OOD principles.
 * A script for plotting data/results; Probablt `Python based` using `Matplotlib`. 
 
